@@ -1,9 +1,24 @@
 .marcador{
 	background-color: #0fc;
 	border: 1px solid #000;
-	color:#fff;
+
 }
 .marcador2{
 	background-color: #fcc;
 	border: 1px solid #000;
+}
+.nav-principal{
+	background-color: #4285F4;
+	border: 1px solid #999;
+}
+
+div.navbar-header a.navbar-brand{
+	color:red;
+}
+ul.nav.navbar-nav.navbar-right li a {
+	color:#fff;
+}
+ul.nav.navbar-nav.navbar-right li a:hover {
+	color:#34A853;
+	font-weight: bold;
 }
